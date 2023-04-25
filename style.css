@@ -1,0 +1,235 @@
+.head{
+    width: 100%;
+    height: 840px;
+    background-image: url(./images/Rectangle\ \(16\)\ \(1\).jpg);
+    position: relative;
+}
+.logo{
+    position: absolute;
+    top: 30px;
+    left: 405px;
+}
+.logo h5{
+    color: white;
+    font-size: 12px;
+    margin-top: 15px;
+}
+.link{
+    position: absolute;
+    left: 800px;
+    top: 30px;
+    display: flex;
+    gap: 30px;
+}
+.link li{
+    list-style: none;
+}
+.link li a{
+    text-decoration: none;
+    color: white;
+}
+.sarlavha{
+    width: 556px;
+    height: 109px;
+    font-size: 48px ;
+    color: #D4C17F ;
+    position: absolute;
+    top: 290px;
+    left: 580px ;
+}
+.cs{
+    position: absolute;
+    top: 550px ;
+    left: 780px;
+}
+/* .dc{
+    position: absolute;
+    top: 515px ;
+    left: 655px;
+} */
+.box1{
+    display: flex;
+
+}
+.box{
+    position: absolute;
+    top: 745px;
+    left: 600px;
+    display: flex;
+    gap: 70px;
+}
+.box2{
+    display: flex;
+    
+
+}
+.text{
+    margin-left: 20px;
+    color: white;
+}
+.tel{
+    margin-top: 10px;
+    width: 21px ;
+    height: 21px;
+}
+.tell{
+    margin-top: 10px;
+    width: 14px;
+    height: 21px;
+}
+.nav{
+    width: 100%;
+    background-color: #242B33;
+    height: 1100px;
+    position: relative;
+}
+.bic{
+    left: 350px;
+    position: absolute;
+    display: flex;
+    gap: 120px;
+    top: 100px;
+}
+.box4{
+    width: 150px;
+}
+.box4 p{
+    font-size: 20px;
+    width: 150px;
+    color: white;
+    text-align: center;
+    gap: 30px;
+    margin-left: -30px;
+}
+.nash{
+    position: absolute;
+    font-size: 36px ;
+    color:#D4C17F ;
+    top: 400px ;
+    left: 250px;
+}
+.box5{
+    /* width: 100%; */
+    position: absolute;
+    top: 400px;
+    left: 200px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.box6{
+    /* padding-left: 50px;
+    padding-top: 240px ; */
+    width: 535px ;
+    height: 320px;
+    background-image: url(./images/Rectangle\ \(17\).jpg)
+}
+.box7{
+    /* padding-left: 50px;
+    padding-top: 240px ; */
+    width: 535px ;
+    height: 320px;
+    background-image: url(./images/Rectangle\ \(18\).jpg)
+}
+.box8{
+    /* padding-left: 50px;
+    padding-top: 240px ; */
+    width: 535px ;
+    height: 320px;
+    background-image: url(./images/Rectangle\ \(19\).jpg)
+}
+.box9{
+    /* padding-left: 50px;
+    padding-top: 240px ; */
+    width: 535px ;
+    height: 320px;
+    background-image: url(./images/Rectangle\ \(20\).jpg)
+}
+.rr{
+    color: white;
+    margin-top: 250px ;
+    margin-left: 60px;
+
+}
+.form{
+    width: 100%;
+    height: 560px;
+    background-image: url(./images/Rectangle\ \(21\).jpg);
+}
+.form{
+    position: relative;
+}
+.texx{
+    position: absolute;
+    display: flex;
+    gap: 100px;
+    left: 200px;
+    top: 150px;
+}
+.texx .te h3{
+    color: #D4C17F;
+    font-size: 36px;
+}
+.texx .te p{
+    margin-top: 50px;
+    color: white;
+    font-size: 16px ;
+    width: 535px ;
+    height: 115px;
+}
+.inp form{
+   margin-top: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 50px;
+}
+.inp form p{
+    width: 260px;
+    color: white;
+}
+.btn1{
+   padding: 12px 90px;
+    width: 255px ;
+    height: 50px;
+    background: transparent;
+    background-color: #FFFFFF;
+    border: none;
+    cursor: pointer;
+    opacity: 20%;
+    
+}
+.btn2{
+    padding: 12px 90px;
+    
+    width: 255px ;
+    height: 50px;
+    background: transparent;
+    background-color: #FFFFFF;
+    border: none;
+    cursor: pointer;
+    opacity: 20%;
+    
+}
+.btn3{
+    padding: 11px 80px;
+    width: 255px ;
+    height: 50px;
+    
+    background-color: #D4C17F;
+    border: none;
+    cursor: pointer;
+    
+    
+}
+.btn1 p{
+    font-size: 14px;
+    color: white;
+}
+.btn2 p{
+    font-size: 14px;
+    color: white;
+}
+.btn3 p{
+    font-size: 14px;
+    color: white;
+}
