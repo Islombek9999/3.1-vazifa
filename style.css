@@ -42,11 +42,11 @@
     top: 550px ;
     left: 780px;
 }
-/* .dc{
+.dc{
     position: absolute;
-    top: 515px ;
-    left: 655px;
-} */
+    top: 335px ;
+    left: 265px;
+}
 .box1{
     display: flex;
 
@@ -191,6 +191,7 @@
    padding: 12px 90px;
     width: 255px ;
     height: 50px;
+    color: #BEBEBE;
     background: transparent;
     background-color: #FFFFFF;
     border: none;
@@ -200,7 +201,7 @@
 }
 .btn2{
     padding: 12px 90px;
-    
+    color: #BEBEBE;
     width: 255px ;
     height: 50px;
     background: transparent;
@@ -214,7 +215,7 @@
     padding: 11px 80px;
     width: 255px ;
     height: 50px;
-    
+    color: #ffffff;
     background-color: #D4C17F;
     border: none;
     cursor: pointer;
@@ -266,6 +267,7 @@
     padding: 12px 90px;
     width: 255px ;
     height: 50px;
+    color: #FFFFFF;
     background: transparent;
     background-color: #FFFFFF;
     border: none;
@@ -276,11 +278,12 @@
     padding: 12px 90px;
     width: 255px ;
     height: 50px;
+    color: black;
     background: transparent;
     background-color: #FFFFFF;
     border: none;
     cursor: pointer;
-    opacity: 20%;
+    opacity: 0.2;
 }
 .text_tr{
     width: 255px;
@@ -289,7 +292,7 @@
     padding: 11px 80px;
     width: 255px ;
     height: 50px;
-    
+    color: #FFFFFF;
     background-color: #D4C17F;
     border: none;
     cursor: pointer;
@@ -313,10 +316,11 @@ footer{
 footer{
     display: flex;
     position: relative;
+    gap: 50px;
 }
 .lo{
     position: absolute;
-    top: 60px;
+    top: 70px;
     left: 300px ;
 }
 .lo p{
@@ -324,4 +328,67 @@ footer{
     font-size: 16px ;
     color: #FFFFFF;
 }
+.link1 li{
+    list-style: none;
+
+}
+.link1 li a{
+    text-decoration: none;
+    color: #FFFFFF;
+    font-size: 14px;
+}
+.link2 li{
+    list-style: none;
+}
+.link2 li a{
+    font-size: 14px;
+    text-decoration: none;
+    color: #FFFFFF;
+}
+.link1{
+    position: absolute;
+    top: 70px ;
+    left: 600px;
+}
+.link2{
+    position: absolute;
+    top: 70px ;
+    left: 800px;
+}
+.contact li{
+    
+    
+    list-style: none;
+    color: #FFFFFF;
+}
+.contact{
+    position: absolute;
+    top: 60px;
+    left: 1000px;
+    
+}
+footer .face{
+    display: flex;
+    position: absolute;
+    gap: 10px;
+    top: 160px ;
+    left: 1050px ;
+}
+.you{
+    width: 15px ;
+    height: 20px;
+}
+.ww{
+    width: 15px;
+    height: 15px;
+}
+.facee{
+    width: 15px;
+    height: 15px;
+}
+.ins{
+    width: 15px;
+    height: 15px;
+}
+
 
